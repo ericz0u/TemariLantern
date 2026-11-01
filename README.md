@@ -42,7 +42,7 @@ You need Magic Lantern on the card, built from a recent
   starts ML's installer (it doesn't change Canon's firmware); follow its prompts and
   restart the camera.
 
-Then turn her on:
+After install, turn on module:
 
 1. Press **Trash** to open ML's menu.
 2. **Modules** tab → **plush** → SET, then restart the camera. (Modules only load
