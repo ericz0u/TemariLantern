@@ -9,7 +9,11 @@ each DISP/INFO press, turning the mode dial), she pops up somewhere random, betw
 0.3" and 1" tall.
 Canon keeps redrawing its screens, so the module keeps redrawing her on top.
 
-![preview](images/plush.webp)
+
+
+https://github.com/user-attachments/assets/59f8d0b7-234b-4027-a36f-4c6061b3aea1
+
+
 
 ## Cameras
 
