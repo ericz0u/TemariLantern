@@ -1,5 +1,7 @@
 # TemariLantern
-Branch of Magic Lantern that puts a temari plush on every screen. There is no utility to this. She will be in the way.
+Branch of Magic Lantern that puts a tamari onto every screen. There is no utility to this. She will be in the way.
+
+You can use different images as well, there is a converter included to change images from jpg/png to a format that will display on the camera
 
 `plush` is a [Magic Lantern](https://github.com/reticulatedpines/magiclantern_simplified)
 module. Every time the screen changes (LiveView, playback, Canon menus, the ML menu,
