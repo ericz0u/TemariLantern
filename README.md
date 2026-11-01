@@ -5,7 +5,8 @@ You can use different images as well, there is a converter included to change im
 
 `plush` is a [Magic Lantern](https://github.com/reticulatedpines/magiclantern_simplified)
 module. Every time the screen changes (LiveView, playback, Canon menus, the ML menu,
-each DISP/INFO press), she pops up somewhere random, between 0.3" and 1" tall.
+each DISP/INFO press, turning the mode dial), she pops up somewhere random, between
+0.3" and 1" tall.
 Canon keeps redrawing its screens, so the module keeps redrawing her on top.
 
 ![preview](images/plush.webp)
@@ -134,7 +135,9 @@ instead of dithering.
 - **Flicker.** Canon redraws its own screens whenever it likes, so she may vanish
   for a moment before the module repaints her.
 - **Screen changes** are detected from Canon's current dialog, GUI mode, LiveView
-  state, zoom, the ML menu and the display power, plus every DISP/INFO press.
+  state, zoom, the ML menu and the display power, plus every DISP/INFO press. On
+  screens that show the shooting mode (LiveView and the shooting info screen),
+  turning the mode dial counts too; in playback and the menus it doesn't.
   Switching tabs inside ML's menu doesn't count.
 
 ## License
